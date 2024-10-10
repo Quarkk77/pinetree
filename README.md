@@ -2,7 +2,12 @@
 simple recursive tui converter for audio files
 
 ## install
-> todo
+```
+pacman -S git
+git clone https://github.com/Quarkk77/pinetree.git
+cd pinetree
+makepkg -si
+```
 
 ## todo
 > add install instructions
