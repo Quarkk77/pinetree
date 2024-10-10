@@ -2,8 +2,8 @@
 simple recursive tui converter for audio files
 
 ## install
-todo
+> todo
 
 ## todo
-add install instructions
-optimization stuff
+> add install instructions
+> optimization stuff
