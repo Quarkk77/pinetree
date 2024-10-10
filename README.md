@@ -10,5 +10,4 @@ makepkg -si
 ```
 
 ## todo
-> add install instructions
 > optimization stuff
