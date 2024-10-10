@@ -1,0 +1,12 @@
+post_install() {
+    echo "Pinetree installed successfully."
+    mkdir -p ~/.config/pinetree
+}
+
+post_upgrade() {
+    echo "Pinetree upgraded successfully."
+}
+
+post_remove() {
+    echo "Pinetree removed."
+}
