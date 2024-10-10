@@ -10,4 +10,4 @@ makepkg -si
 ```
 
 ## todo
-> optimization stuff
+> optimization stuff & add more args
